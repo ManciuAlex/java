@@ -20,4 +20,4 @@ public class Generatii {
         System.out.println("Generatia este:" + generatia);
 
     }
-}
+}public static void main 
